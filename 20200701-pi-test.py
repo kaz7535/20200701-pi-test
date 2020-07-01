@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 #second-branch
+#comment
 def main(msg):
     print(msg)
 
