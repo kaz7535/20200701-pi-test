@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 
-//second merge conflict
-//pi2 test
-//version control test
+//second-branch
 def main(msg):
     print(msg)
 
 main("Hello git")
+
+def secondary():
+    print("hi second branch")
